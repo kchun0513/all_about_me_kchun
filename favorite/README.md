@@ -1,6 +1,6 @@
 # 좋아하는 것
 
-> [야간 산책](https://github.com/kchun0513/all_about_me_kchun/blob/favorite/favorite/jokbal.md)
+> [야간 산책](https://github.com/kchun0513/all_about_me_kchun/blob/favorite/favorite/nightWalk.md)
 
 > [족발](https://github.com/kchun0513/all_about_me_kchun/blob/favorite/favorite/jokbal.md)
 
